@@ -1,0 +1,6 @@
+username,age,gender,location,smoking_history,bmi,hbA1c_level,blood_glucose_level,hypertension,heart_disease,race:AfricanAmerican,race:Asian,race:Caucasian,race:Hispanic,race:Other,diabetes,timestamp
+Tameem,25,Female,Alabama,never,22.5,5.0,100,0,0,0,0,0,0,1,0,2025-07-20 01:40:08
+Tameem,65,Female,Alabama,never,44.0,8.0,138,0,0,0,0,0,0,1,1,2025-07-20 01:40:38
+Tameem,25,Female,Alabama,never,22.48,5.0,140,0,0,0,0,0,0,1,1,2025-07-20 01:46:29
+Tameem,25,Female,Alabama,never,22.48,5.0,90,0,0,0,0,0,0,1,0,2025-07-20 01:46:39
+Tameem,22,Female,Alabama,never,22.5,5.0,90,0,0,0,0,0,0,1,0,2025-07-20 10:37:59
